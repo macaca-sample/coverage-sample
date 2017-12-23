@@ -6,7 +6,6 @@
 
 - [d3-tree](//github.com/xudafeng/d3-tree)
 - [canvas-color](//github.com/xudafeng/canvas-color)
-- [qrcode](//github.com/iscanner/qrcode)
 - [react-sample](//github.com/macaca-sample/react-sample)
 - [vue-sample](//github.com/macaca-sample/vue-sample)
 
