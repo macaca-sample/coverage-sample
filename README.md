@@ -10,6 +10,7 @@
 - [d3-tree](//github.com/xudafeng/d3-tree)
 - [canvas-color](//github.com/xudafeng/canvas-color)
 - [monitor.js](//github.com/pillowjs/monitor.js)
+- [wordle](//github.com/xudafeng/wordle)
 
 ## License
 
