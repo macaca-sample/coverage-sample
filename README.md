@@ -4,6 +4,7 @@
 
 ## Sample List
 
+- [awesome-practice-projects](//github.com/app-bootstrap/awesome-practice-projects)
 - [react-sample](//github.com/macaca-sample/react-sample)
 - [vue-sample](//github.com/macaca-sample/vue-sample)
 - [umlplot](//github.com/xudafeng/umlplot)
@@ -12,7 +13,6 @@
 - [monitor.js](//github.com/pillowjs/monitor.js)
 - [wordle](//github.com/xudafeng/wordle)
 - [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample)
-- [awesome-practice-projects](//github.com/app-bootstrap/awesome-practice-projects)
 
 ## License
 
